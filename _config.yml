@@ -1,7 +1,7 @@
 name: rhemsolutions
 favicon: null
 layout_spectrum: 0.6410292070358992
-typography_spectrum: 0.010749288834631443
+typography_spectrum: 0.73442
 cta:
   domain: null
   bucket: null
@@ -15,7 +15,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#ffffff'
+    - '#b22325'
+    - '#82817c'
+    - '#d57924'
+    - '#e6baba'
   brandStrength: 0.2616615556180477
   lightness: 0.11824162281118333
   saturation: 0.6092748220544308
